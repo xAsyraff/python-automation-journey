@@ -1,0 +1,20 @@
+Files in: C:\Users\Asyra\Downloads
+========================================
+      amd-software-adrenalin-edition-25.12.1-minimalsetup-251207_web.exe
+      desktop.ini
+      Install League of Legends sg2.exe
+      jetbrains-toolbox-3.2.0.65851.exe
+      Mobalytics Desktop - Installer.exe
+      Muhammad Asyraff Resume.pdf
+      Muhammad_Asyraff_IT_Resume.docx
+      Muhammad_Asyraff_IT_Resume.pdf
+      Muhammad_Asyraff_IT_Resume_Exact.pdf
+      Muhammad_Asyraff_IT_Resume_Final.pdf
+      Muhammad_Asyraff_IT_Resume_FINAL_Complete.docx
+      Muhammad_Asyraff_IT_Resume_No_Swab.pdf
+      Muhammad_Asyraff_IT_Resume_Remote_Support_Added.docx
+      Muhammad_Asyraff_IT_Resume_Updated.docx
+[DIR] Office Pro Plus 2024 OEM Lifetime x64
+      Office Pro Plus 2024 OEM Lifetime x64.zip
+      python-manager-25.2.msix
+      VSCodeUserSetup-x64-1.108.1.exe
